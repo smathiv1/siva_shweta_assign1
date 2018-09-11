@@ -1,0 +1,20 @@
+main() {int x; x = 3;}
+main() {int x; x = 3; printID x;}
+main() {int x; x = 20; x = x – 2 * 5; printID x;}
+main() {x=3;}
+main() {int x; x = 1+2; }
+main() {int 1x;}
+main() {
+int x;
+x = 3;
+printID x;
+}
+main() {float x; x = 1.2; printID x;}
+main() {float x; x = 1E2; printID x;}
+main() {float x; printID x;}
+int x;
+main() {int x; int y; x = 3; y = x; printID y;}
+main() {int x; float y; x = 1; y = x;}
+main() {int x; x = 3 - 1.5; printID x;}
+main() {printExp 5-2;}
+main() { }
